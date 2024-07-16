@@ -1,6 +1,6 @@
 # React Starter Kit
 
-A minimal React starter kit with ESLint, Prettier, auto-sorting of imports, Tailwind CSS, and DaisyUI. Clone, install, and start building instantly without worrying about package configurations or setups. 🚀
+A minimal React starter kit with ESLint, Prettier, auto-sorting of imports, Tailwind CSS. Clone, install, and start building instantly without worrying about package configurations or setups. 🚀
 
 ## 🛠️ Getting Started
 
@@ -69,7 +69,6 @@ npm install
 -   **@types/react-dom**: `^18.3.0`
 -   **@vitejs/plugin-react**: `^4.3.1`
 -   **autoprefixer**: `^10.4.19`
--   **daisyui**: `^4.12.10`
 -   **eslint**: `^8.57.0`
 -   **eslint-plugin-react**: `^7.34.2`
 -   **eslint-plugin-react-hooks**: `^4.6.2`

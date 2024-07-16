@@ -4,11 +4,11 @@ const App = () => {
     return (
         <div className="p-4">
             <h1 className="text-3xl font-bold mb-4">
-                Welcome to React with DaisyUI and Tailwind CSS!
+                Welcome to React withTailwind CSS!
             </h1>
             <p className="text-lg mb-2">
                 This is a sample application using React, styled with Tailwind
-                CSS and DaisyUI, built with Vite.
+                CSS built with Vite.
             </p>
             <div className="bg-gray-100 p-4 rounded-lg shadow-md">
                 <p className="text-gray-700">
@@ -41,8 +41,8 @@ const App = () => {
                 </div>
             </div>
             <footer className="mt-4 text-sm text-gray-600">
-                Built with ❤️ using React, Tailwind CSS, DaisyUI, Vite,
-                Prettier, and ESLint.
+                Built with ❤️ using React, Tailwind CSS Vite, Prettier, and
+                ESLint.
             </footer>
 
             {/* Description Rendered in JSX */}
@@ -57,10 +57,10 @@ const App = () => {
                         module replacement (HMR).
                     </li>
                     <li>
-                        <strong>Styling with Tailwind CSS and DaisyUI:</strong>{' '}
-                        Tailwind CSS is a utility-first CSS framework for rapid
-                        UI development. DaisyUI provides additional components
-                        for Tailwind CSS.
+                        <strong>Styling with Tailwind CSS:</strong> Tailwind CSS
+                        is a utility-first CSS framework for rapid UI
+                        development. provides additional components for Tailwind
+                        CSS.
                     </li>
                     <li>
                         <strong>Code Formatting with Prettier:</strong> Prettier
